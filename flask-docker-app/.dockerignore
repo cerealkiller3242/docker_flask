@@ -17,4 +17,6 @@ coverage.xml
 .git
 .mypy_cache
 .pytest_cache
-.hypothesis
+.hypothesis.env.dev
+pg_password.txt
+
